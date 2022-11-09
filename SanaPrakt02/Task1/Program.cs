@@ -2,5 +2,5 @@
 Console.WriteLine("Перший рядок");
 Console.WriteLine("Другий рядок");
 Console.WriteLine("Третiй рядок");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+Console.WriteLine("Четвертий рядок");
+Console.WriteLine("П'ятий рядок");
